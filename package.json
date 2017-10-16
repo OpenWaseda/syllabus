@@ -1,0 +1,28 @@
+{
+  "name": "syllabus",
+  "version": "1.0.0",
+  "description": "Waseda university syllabus scraper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OpenWaseda/syllabus.git"
+  },
+  "keywords": [
+    "nodejs",
+    "syllabus",
+    "json",
+    "waseda"
+  ],
+  "author": "OpenWaseda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OpenWaseda/syllabus/issues"
+  },
+  "homepage": "https://github.com/OpenWaseda/syllabus#readme",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
